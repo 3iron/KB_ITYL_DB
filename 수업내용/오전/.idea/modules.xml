@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jdbc_ex.iml" filepath="$PROJECT_DIR$/jdbc_ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc_ex.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc_ex.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc_ex.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc_ex.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc_exx.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc_exx.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc_exx.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc_exx.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/오전.iml" filepath="$PROJECT_DIR$/.idea/오전.iml" />
+    </modules>
+  </component>
+</project>

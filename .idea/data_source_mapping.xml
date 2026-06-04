@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/수업자료/오전/day6.sql" value="9423849f-fb58-4805-bf43-9345457171ae" />
+    <file url="file://$PROJECT_DIR$/수업자료/오전/tabledb.sql" value="9423849f-fb58-4805-bf43-9345457171ae" />
+    <file url="file://$PROJECT_DIR$/수업자료/오전/test_db-master/jdbc.sql" value="9423849f-fb58-4805-bf43-9345457171ae" />
+    <file url="file://$PROJECT_DIR$/수업자료/오후/오후수업sql/05_table_datatype.sql" value="9423849f-fb58-4805-bf43-9345457171ae" />
+    <file url="file://$PROJECT_DIR$/수업자료/오후/오후수업sql/06_dml.sql" value="9423849f-fb58-4805-bf43-9345457171ae" />
+    <file url="file://$PROJECT_DIR$/수업자료/오후/오후수업sql/07_ddl.sql" value="9423849f-fb58-4805-bf43-9345457171ae" />
+    <file url="file://$PROJECT_DIR$/수업자료/오후/오후수업sql/09_create_user_database.sql" value="9423849f-fb58-4805-bf43-9345457171ae" />
+    <file url="file://$PROJECT_DIR$/실습문제/02_dql_select2.sql" value="9423849f-fb58-4805-bf43-9345457171ae" />
+    <file url="file://$PROJECT_DIR$/실습문제/03_dql_subquery.sql" value="9423849f-fb58-4805-bf43-9345457171ae" />
+    <file url="file://$PROJECT_DIR$/실습문제/04_dql_join.sql" value="9423849f-fb58-4805-bf43-9345457171ae" />
+  </component>
+</project>
