@@ -17,7 +17,7 @@ public class MemberService {
     private MemberDao dao = new MemberDaoImpl();
 
     // 숙제
-//    private MemberDao dao = new PshMemberDaoImpl();
+//    private MemberDao dao = new PmjMemberDaoImpl();
 
     public void displayMenu() {
 
