@@ -10,7 +10,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PshMemberDaoImpl implements MemberDao{
+public class PmjMemberDaoImpl implements MemberDao{
     // JDBCUtil을 통해 Connection 객체 가져오기
     Connection con = JDBCUtil.getConnection();
 
