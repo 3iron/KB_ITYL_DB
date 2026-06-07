@@ -25,8 +25,6 @@ public interface MemberDao {
 
     List<Member> getList() throws SQLException;
 
-    }
-
 
 
 }

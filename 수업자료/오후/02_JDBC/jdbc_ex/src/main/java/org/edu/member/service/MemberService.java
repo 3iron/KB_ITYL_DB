@@ -2,7 +2,7 @@ package org.edu.member.service;
 
 import org.edu.member.dao.MemberDao;
 import org.edu.member.dao.MemberDaoImpl;
-import org.edu.member.dao.PshMemberDaoImpl;
+import org.edu.member.dao.PmjMemberDaoImpl;
 import org.edu.member.vo.Member;
 
 import java.sql.SQLException;
@@ -17,7 +17,7 @@ public class MemberService {
     private MemberDao dao = new MemberDaoImpl();
 
     // 숙제
-//    private MemberDao dao = new PshMemberDaoImpl();
+//    private MemberDao dao = new PmjMemberDaoImpl();
 
     public void displayMenu() {
 

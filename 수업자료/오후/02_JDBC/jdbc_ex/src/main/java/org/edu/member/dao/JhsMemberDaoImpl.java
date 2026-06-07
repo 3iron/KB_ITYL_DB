@@ -6,6 +6,7 @@ import org.edu.member.vo.Member;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
+import java.util.List;
 
 public class JhsMemberDaoImpl implements MemberDao{
 
@@ -81,4 +82,17 @@ public class JhsMemberDaoImpl implements MemberDao{
     public Member getDeptName(int memberNo) throws SQLException {
         return null;
     }
+
+    @Override
+    public List<Member> getList() throws SQLException {
+        return null;
+    }
+
+    @Override
+    public Member select(int no) throws SQLException {
+        return null;
+    }
+
 }
+
+
