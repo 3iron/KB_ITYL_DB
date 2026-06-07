@@ -10,9 +10,9 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PmjMemberDaoImpl implements MemberDao {
-
-    private Connection con = JDBCUtil.getConnection();
+public class PmjMemberDaoImpl implements MemberDao{
+    // JDBCUtil을 통해 Connection 객체 가져오기
+    Connection con = JDBCUtil.getConnection();
 
     // 회원 등록
     @Override
